@@ -2,7 +2,7 @@
   "name": "vue-01",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://yurgov.github.io/vue-template/",
+  "homepage": "https://pavlorozhko.github.io/my-vue-study/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
